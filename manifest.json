@@ -1,0 +1,17 @@
+{
+  "name": "Sample App",
+  "short_name": "Sample App",
+  "description": "A travel planning app.",
+  "start_url": "/",
+  "display": "fullscreen",
+  "background_color": "#fff",
+  "theme_color": "#2D4863",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
+}
