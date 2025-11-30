@@ -2,7 +2,7 @@
   "name": "Sample App",
   "short_name": "Sample App",
   "description": "A travel planning app.",
-  "start_url": "/",
+  "start_url": "/pwa-sandbox",
   "display": "fullscreen",
   "background_color": "#fff",
   "theme_color": "#2D4863",
